@@ -6,10 +6,10 @@
 
 | № | Проект                       | Тип              | Стек |
 |---|------------------------------|------------------|------|
-| 1 | [Анализ данных Яндекс Афиша] | Jupyter Notebook | pandas, numpy, scipy, matplotlib, seaborn |
-| 2 | [Исследование стартапов] | Jupyter Notebook | pandas, matplotlib, seaborn |
-| 3 | [Разработка A/B-теста и анализ результатов] | Jupyter Notebook | pandas, matplotlib, statsmodels |
-| 4 | [Статистическая проверка гипотез и A/B-анализ] | Jupyter Notebook | pandas, matplotlib, seaborn, scipy, statsmodels |
+| 1 | [Анализ данных Яндекс Афиша](./1_Анализ_данных_Яндекс_Афиша_проект_Python) | Jupyter Notebook | pandas, numpy, scipy, matplotlib, seaborn |
+| 2 | [Исследование стартапов](./2_Исследование_стартапов_проект_Python) | Jupyter Notebook | pandas, matplotlib, seaborn |
+| 3 | [Разработка A/B-теста и анализ результатов](./3_Разработка_AB-теста_и_анализ_результатов_проект_Python) | Jupyter Notebook | pandas, matplotlib, statsmodels |
+| 4 | [Статистическая проверка гипотез и A/B-анализ](./4_Статистическая_проверка_гипотез_и_AB-анализ_проект_Python) | Jupyter Notebook | pandas, matplotlib, seaborn, scipy, statsmodels |
 | 5 | [Примеры дашбордов DataLens](./5_Примеры_дашбордов_DataLens) | BI-дашборды | Yandex DataLens |
 
 ## Описание проектов
